@@ -7,4 +7,4 @@
 
 [Play the game by clicking here](https://antonioreinadev.github.io/Game-Ping-Pong/)
 
-![image](image.png)
+![image](pinPpong.PNG)
