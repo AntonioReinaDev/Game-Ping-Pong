@@ -1,9 +1,15 @@
 # Creation of the ping-pong game using the P5.js framework in Javascript
 
-## To use this project you need:
+## The game was developed with the tools below:
 
 * [Visual Studo Code](https://code.visualstudio.com/)
 * [P5.js](https://p5js.org/)
+
+## How to play:
+
+>**`Up arrow`**
+>
+>**`Down arrow`**
 
 [Play the game by clicking here](https://antonioreinadev.github.io/Game-Ping-Pong/)
 
