@@ -5,7 +5,7 @@
 * [Visual Studo Code](https://code.visualstudio.com/)
 * [P5.js](https://p5js.org/)
 
-## How to play:
+## How to play (You need to use a keyboard):
 
 >**`Up arrow`**
 >
