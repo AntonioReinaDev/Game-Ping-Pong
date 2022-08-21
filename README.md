@@ -12,7 +12,7 @@
 >
 >`Up arrow(UP) - Down arrow(DOWN)`
 
->`control left palette`
+>`Control left palette`
 >
 >`W key(UP) - S key(DOWN)`
 
