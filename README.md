@@ -6,16 +6,16 @@
 * [P5.js](https://p5js.org/)
 
 ## How to play (You need to use a keyboard):
+### The first player to score ten points wins!
 
 >**`Control right palette`
 >
->**`Up arrow`**  >**`Down arrow`**
+>**`Up arrow(UP) - Down arrow(DOWN)`
 
 >**`control left palette`
 >
->**`W key`**  >**`S key`**
+>**`W key(UP) - S key(DOWN)`
 
-### The first player to score ten points wins!
 
 [Play the game by clicking here](https://antonioreinadev.github.io/Game-Ping-Pong/)
 
