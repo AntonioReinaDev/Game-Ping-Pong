@@ -8,13 +8,13 @@
 ## How to play (You need to use a keyboard):
 ### The first player to score ten points wins!
 
->**`Control right palette`
+>`Control right palette`
 >
->**`Up arrow(UP) - Down arrow(DOWN)`
+>`Up arrow(UP) - Down arrow(DOWN)`
 
->**`control left palette`
+>`control left palette`
 >
->**`W key(UP) - S key(DOWN)`
+>`W key(UP) - S key(DOWN)`
 
 
 [Play the game by clicking here](https://antonioreinadev.github.io/Game-Ping-Pong/)
